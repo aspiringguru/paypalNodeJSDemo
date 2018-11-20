@@ -1,0 +1,48 @@
+refer https://www.youtube.com/watch?v=7k03jobKGXM
+
+sudo npm install --save paypal-rest-sdk express ejs
+
+
+https://github.com/bradtraversy/node_paypal_sdk_sample
+
+
+34.222.5.133:3500
+
+
+npm install -g nodemon
+
+nodemon
+#only works if package.json nominates the correct file to run
+
+
+#https://developer.paypal.com/developer/accounts/
+setup subaccounts for seller and buyer
+bmatthewtaylor-facilitator@gmail.com
+
+
+https://developer.paypal.com/developer/applications/
+scroll down to REST API apps
+create app
+bmtOne
+
+bmatthewtaylor-facilitator@gmail.com
+
+npm init
+npm install --save paypal-rest-sdk express ejs
+
+#---------------------------------------
+create .gitignore
+add these lines to .gitignore
+node_modules/
+paypalConfig.json
+#---------------------------------------
+
+npm install -g nodemon
+
+nodemon
+
+
+github.com/paypal/PayPal-node-SDK
+
+https://github.com/paypal/PayPal-node-SDK/blob/master/samples/payment/execute.js
+refer > paypal.payment.execute(paymentId, execute_payment_json, function (error, payment)

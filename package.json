@@ -1,0 +1,17 @@
+{
+  "name": "paypalnodejsdemo",
+  "version": "1.0.0",
+  "description": "Sample Paypal App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemailer": "^4.7.0",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
